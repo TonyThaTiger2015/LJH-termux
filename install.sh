@@ -3,7 +3,7 @@
 pkg update -y
 pkg install -y git
 
-curl -o $PREFIX/bin/smiler https://raw.githubusercontent.com/YOURNAME/smiler/main/smiler
+curl -o $PREFIX/bin/smiler https://raw.githubusercontent.com/TonyThaTiger2015/smiler/main/smiler
 
 chmod +x $PREFIX/bin/smiler
 
