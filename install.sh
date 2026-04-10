@@ -3,8 +3,8 @@
 pkg update -y
 pkg install -y git
 
-curl -o $PREFIX/bin/smiler https://raw.githubusercontent.com/TonyThaTiger2015/LJH-termux/main/LJH-termux
+curl -o $PREFIX/bin/LJH-termux https://raw.githubusercontent.com/TonyThaTiger2015/LJH-termux/main/LJH-termux
 
-chmod +x $PREFIX/bin/smiler
+chmod +x $PREFIX/bin/LJH-termux
 
-echo "Smiler installed! type: smiler"
+echo "LJH installed! type: LJH"
